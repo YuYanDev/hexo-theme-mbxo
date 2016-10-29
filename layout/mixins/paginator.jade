@@ -1,0 +1,23 @@
+mixin home()
+    - var prev = page.prev_link
+    - var next = page.next_link
+    hr
+    .flex-center.top-gap
+        if page.prev
+            .unit.site-box
+                a(href=url_for(prev))!= __('prev') 
+        if page.next
+            .unit.site-box
+                a(href=url_for(next))!= __('next')
+
+mixin post()
+    - var prev = page.prev ? page.prev.path : false;
+    - var next = page.next ? page.next.path : false; 
+    hr
+    .flex-center.top-gap
+        if prev
+            .unit.site-box
+                a(href=url_for(prev))!= __('prev_post')
+        if next
+            .unit.site-box
+                a(href=url_for(next))!= __('next_post')

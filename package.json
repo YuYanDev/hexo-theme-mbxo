@@ -1,0 +1,27 @@
+{
+  "name": "hexo-theme-mbxo",
+  "version": "1.0.0",
+  "description": "A hexo mobile theme base on mobi.css",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alleysakura/hexo-theme-mbxo"
+  },
+  "keywords": [
+    "hexo",
+    "theme",
+    "mbxo"
+  ],
+  "author": "SakaraHiroya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alleysakura/hexo-theme-mbxo/issues"
+  },
+  "homepage": "https://github.com/Alleysakura/hexo-theme-mbxo",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}

@@ -1,0 +1,20 @@
+menu:
+    Home: /
+    Links: /Links
+    GitHub: https://github.com/
+    About: /About
+    Rss: /atom.xml
+
+favicon: /favicon.icon
+logo: /favicon.icon
+
+# Comment
+disqus:
+duoshuo:
+
+# Analytics
+# google-analytics:
+ga:
+
+# Copyright Infomation
+startyear: 2016
