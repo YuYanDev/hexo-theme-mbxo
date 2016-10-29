@@ -3,7 +3,7 @@
 A hexo mobile theme base on mobi.css
 
 
-[Demo](https://alleysakura.github.io/hexo-theme-mbxo)
+[Demo](https://alleysakura.github.io/hexo-theme-mbxo/)
 
 # Install
 
