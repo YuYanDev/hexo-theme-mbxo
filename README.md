@@ -1,7 +1,6 @@
 # hexo-theme-mbxo
 
 A hexo mobile theme base on mobi.css
-![](https://alleysakura.github.io/hexo-theme-mbxo/img/mbxo2.png =100x "")
 
 
 [Demo](https://alleysakura.github.io/hexo-theme-mbxo)
