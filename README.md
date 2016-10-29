@@ -1,8 +1,8 @@
 # hexo-theme-mbxo
 
 A hexo mobile theme base on mobi.css
-![](https://alleysakura.github.io/hexo-theme-mbxo/img/mbxo1.png)![](https://alleysakura.github.io/hexo-theme-mbxo/img/mbxo2.png)
-
+<div class="width:100%}">![](https://alleysakura.github.io/hexo-theme-mbxo/img/mbxo1.png)![](https://alleysakura.github.io/hexo-theme-mbxo/img/mbxo2.png)
+</div>
 
 [Demo](https://alleysakura.github.io/hexo-theme-mbxo)
 
