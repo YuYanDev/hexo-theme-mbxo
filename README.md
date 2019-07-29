@@ -2,14 +2,11 @@
 
 A hexo mobile theme base on mobi.css
 
-
-[Demo](https://alleysakura.github.io/hexo-theme-mbxo/)
-
 # Install
 
 ```
 npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync
-git clone https://github.com/Alleysakura/hexo-theme-mbxo.git themes/mbxo
+git clone https://github.com/YuYanDev/hexo-theme-mbxo.git themes/mbxo
 ```
 
 # Tips
